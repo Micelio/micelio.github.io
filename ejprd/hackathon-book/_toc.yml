@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+chapters:
+- file: Introduction/intro.md
+- file: use_cases/intro.md
+- file: data-resources/intro.md
+- file: events/intro.md
