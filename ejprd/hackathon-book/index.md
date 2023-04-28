@@ -1,4 +1,4 @@
-(Draft) FAIR Federation Data Resource Guide on scheduled Hackathon, Workshop and Demonstration Events
+(Draft) EJP RD FAIR Federation Data Events
 ============
 This document is a living document that will drive the organisation of the series of EJP-RD Hackathons, Workshops and Demonstrations. It is a living document that will be updated as the project progresses. 
 
